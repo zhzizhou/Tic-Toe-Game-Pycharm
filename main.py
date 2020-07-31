@@ -3,7 +3,6 @@
 
 
 import random
-import pylint
 
 # display board function to display the game board
 def display_board(board):
