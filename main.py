@@ -1,3 +1,7 @@
+# this tic toc game is written by Brian ZHANG
+# copyrights remained for the script
+
+
 import random
 import pylint
 
